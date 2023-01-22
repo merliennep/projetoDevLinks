@@ -21,7 +21,8 @@ function toggleMode() {
     img.setAttribute(
       "src",
       "./assets/Avatar-light.png",
-      "alt = Foto do Maik Brito com jaqueta preta, ocúlos escuros com fundo degradê azul com roxo."
+      (alt =
+        "Foto do Maik Brito com jaqueta preta, ocúlos escuros com fundo degradê azul com roxo.")
     )
   } else {
     // se tiver sem light mode, manter a imagem normal
