@@ -19,8 +19,9 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     // se tiver em light mode, adicionar a imagem light
     img.setAttribute(
-      "src alt = Foto do Maik Brito com jaqueta preta, ocúlos escuros com fundo degradê azul com roxo.",
-      "./assets/Avatar-light.png"
+      "src",
+      "./assets/Avatar-light.png",
+      "alt = Foto do Maik Brito com jaqueta preta, ocúlos escuros com fundo degradê azul com roxo."
     )
   } else {
     // se tiver sem light mode, manter a imagem normal
