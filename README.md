@@ -35,8 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://merliennep.github.io/projetoDevLinks/](https://projeto-dev-links-gqyg0uyj0-merlienneps-projects.vercel.app/)
-
+- [Acesse o projeto finalizado, online](https://projeto-dev-links-gqyg0uyj0-merlienneps-projects.vercel.app/)
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito))
 
 ## 🔖 Layout
